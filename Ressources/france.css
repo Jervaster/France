@@ -32,7 +32,7 @@ p {
     font-family: Quicksand, sans-serif;
 }
 .section {
-    background-image: url("Ressources/Img/subtle_white_feathers.png");
+    background-image: url("Img/subtle_white_feathers.png");
 }
 /*img{
     display: block;
@@ -92,7 +92,7 @@ a h3{
 /*Accueil site*/
 .presentation{
     width: 100%;  
-    background-image: url("Ressources/Img/presentation/image-presentation.jpg");
+    background-image: url("Img/presentation/image-presentation.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh; /* vh = comme les pourcentages, mais pour height */
